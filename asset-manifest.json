@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-grocery/static/css/main.a86bda18.css",
+    "main.js": "/react-grocery/static/js/main.6f8d6be2.js",
+    "index.html": "/react-grocery/index.html",
+    "main.a86bda18.css.map": "/react-grocery/static/css/main.a86bda18.css.map",
+    "main.6f8d6be2.js.map": "/react-grocery/static/js/main.6f8d6be2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a86bda18.css",
+    "static/js/main.6f8d6be2.js"
+  ]
+}
